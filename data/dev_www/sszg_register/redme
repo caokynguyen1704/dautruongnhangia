@@ -1,0 +1,5 @@
+数据库操作
+CREATE DATABASE `dldl_register` DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
+insert into user(Host,User,Password) values('localhost','dldl_reg',password('75t608ve4nUXlErT'));
+GRANT SELECT , INSERT , UPDATE , DELETE , CREATE , DROP , INDEX , ALTER , CREATE TEMPORARY TABLES , LOCK TABLES , CREATE VIEW , SHOW VIEW ON dldl_register.* TO  'dldl_reg'@'%';
+flush privileges;

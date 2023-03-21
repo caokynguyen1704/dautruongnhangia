@@ -1,0 +1,29 @@
+2021-09-30 02:37:58 =ERROR REPORT====
+** Generic server merge_main_proc terminating 
+** Last message in was {'$gen_cast',start_merge}
+** When Server state == {state,merge_main_proc}
+** Reason for termination == 
+** {badarg,[{dets,delete_all_objects,[env_file],[{file,"dets.erl"},{line,261}]},{merge_dets_env,merge,1,[{file,"src/merge/merge_dets_env.erl"},{line,32}]},{merge_dets_env,do_init,1,[{file,"src/merge/merge_dets_env.erl"},{line,17}]},{merge_dao_behaviour,merge,1,[{file,"src/merge/merge_dao_behaviour.erl"},{line,26}]},{merge_srv,tables_merge,3,[{file,"src/merge/merge_srv.erl"},{line,86}]},{merge_srv,tables_merge_srv,2,[{file,"src/merge/merge_srv.erl"},{line,80}]},{merge_srv,tables_merge,1,[{file,"src/merge/merge_srv.erl"},{line,75}]},{merge_srv,handle_cast,2,[{file,"src/merge/merge_srv.erl"},{line,50}]}]}
+2021-09-30 02:37:58 =CRASH REPORT====
+  crasher:
+    initial call: merge_srv:init/1
+    pid: <0.112.0>
+    registered_name: []
+    exception exit: {{badarg,[{dets,delete_all_objects,[env_file],[{file,"dets.erl"},{line,261}]},{merge_dets_env,merge,1,[{file,"src/merge/merge_dets_env.erl"},{line,32}]},{merge_dets_env,do_init,1,[{file,"src/merge/merge_dets_env.erl"},{line,17}]},{merge_dao_behaviour,merge,1,[{file,"src/merge/merge_dao_behaviour.erl"},{line,26}]},{merge_srv,tables_merge,3,[{file,"src/merge/merge_srv.erl"},{line,86}]},{merge_srv,tables_merge_srv,2,[{file,"src/merge/merge_srv.erl"},{line,80}]},{merge_srv,tables_merge,1,[{file,"src/merge/merge_srv.erl"},{line,75}]},{merge_srv,handle_cast,2,[{file,"src/merge/merge_srv.erl"},{line,50}]}]},[{gen_server,terminate,7,[{file,"gen_server.erl"},{line,812}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,247}]}]}
+    ancestors: [merge_context,merge_sup,<0.105.0>]
+    messages: []
+    links: [<0.111.0>]
+    dictionary: []
+    trap_exit: false
+    status: running
+    heap_size: 2586
+    stack_size: 27
+    reductions: 73447
+  neighbours:
+    neighbour: [{pid,<0.111.0>},{registered_name,merge_context},{initial_call,{merge_context,init,['Argument__1']}},{current_function,{gen_server,loop,6}},{ancestors,[merge_sup,<0.105.0>]},{messages,[]},{links,[<0.110.0>,<0.112.0>]},{dictionary,[]},{trap_exit,false},{status,waiting},{heap_size,2586},{stack_size,9},{reductions,2132}]
+2021-09-30 02:37:58 =SUPERVISOR REPORT====
+     Supervisor: {local,merge_sup}
+     Context:    child_terminated
+     Reason:     {badarg,[{dets,delete_all_objects,[env_file],[{file,"dets.erl"},{line,261}]},{merge_dets_env,merge,1,[{file,"src/merge/merge_dets_env.erl"},{line,32}]},{merge_dets_env,do_init,1,[{file,"src/merge/merge_dets_env.erl"},{line,17}]},{merge_dao_behaviour,merge,1,[{file,"src/merge/merge_dao_behaviour.erl"},{line,26}]},{merge_srv,tables_merge,3,[{file,"src/merge/merge_srv.erl"},{line,86}]},{merge_srv,tables_merge_srv,2,[{file,"src/merge/merge_srv.erl"},{line,80}]},{merge_srv,tables_merge,1,[{file,"src/merge/merge_srv.erl"},{line,75}]},{merge_srv,handle_cast,2,[{file,"src/merge/merge_srv.erl"},{line,50}]}]}
+     Offender:   [{pid,<0.111.0>},{id,merge_context},{mfargs,{merge_context,start_link,[]}},{restart_type,transient},{shutdown,10000},{child_type,worker}]
+

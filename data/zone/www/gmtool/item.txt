@@ -1,0 +1,97 @@
+1|--- Tài Nguyên ---
+1| Bạc
+3| Vàng
+5| EXP Thám Hiểm
+7| Điểm Uy Tin
+8| Trí Tuyệ Thám Hiểm
+9| Năng Động
+10| Đóng Góp Gia Tộc
+11| Linh Hồn Ninja
+12| Điểm Thành Tựu
+14| Xu Tôn Thờ
+16| EXP Gia Tộc
+22| Ninja EXP
+35| Xu Samsara
+
+1|--- Đạo cụ ---
+10450|Pha Lê Bí Thuật
+10030| Hoá Thạch Chim Ưng
+10001| Thuốc Tăng Bậc
+10090| Lõi Cây Thiêng
+10091| Đá Nâng Sao UR
+10006| Dấu Ấn Nindo
+14001| Đá Khế Ước
+10460| Cầu Thức Tỉnh
+1|--- Ninja ---
+24412|Madara UR
+28410|Sasuke (Ác Quỷ)
+26412|Minato (Hokage)
+25412|Jiraya (Sennin)
+27410|Naruto (Tiên Nhân)
+27408|Hashirama Đệ Nhất
+24413|Kisame (Dung Hợp)
+27412|Nagato (Uế Thổ)
+28411|Kakashi (Kamiki)
+27411|Deva Path test
+29103|3 Sao Hồn-Ninja Thủy Mảnh
+29203|3 Sao Hồn-Ninja Hoả Mảnh
+29303|3 Sao Hồn-Ninja Phong Mảnh
+29104|4 Sao Hồn-Ninja Thủy Mảnh
+29204|4 Sao Hồn-Ninja Hoả Mảnh
+29304|4 Sao Hồn-Ninja Phong Mảnh
+29404|4 Sao Hồn-Ninja Đất Mảnh
+29504|4 Sao Hồn-Ninja Sét Mảnh
+29903|3 Sao Hồn-Ninja Ngẫu Nhiên Mảnh 
+29904|4 Sao Hồn-Ninja Ngẫu Nhiên Mảnh  
+90501|5 Sao Hồn-Ninja Thủy Mảnh
+90502|5 Sao Hồn-Ninja Hoả Mảnh
+90503|5 Sao Hồn-Ninja Gió Mảnh
+90504|5 Sao Hồn-Ninja Đất Mảnh
+90505|5 Sao Hồn-Ninja Sét Mảnh
+90506|6 sao Hồn-Ninja (Thủy)
+90507|6 sao Hồn-Ninja (Hoả)
+90508|6 sao Hồn-Ninja (Gió)
+90509|6 sao Hồn-Ninja (Đất)
+90510|6 sao Hồn-Ninja (Ánh Sáng)
+90900|9 Sao Hồn Ninja
+91000|10 Sao Hồn Ninja
+29105|Mảnh Ninja 5 Sao Thủy
+29205|Mảnh Ninja 5 Sao Hoả
+29305|Mảnh Ninja 5 Sao Gió
+29405|Mảnh Ninja 5 Sao Đất
+29505|Mảnh Ninja 5 Sao Ánh Sáng
+1|--- Trang Bị ---
+39159|Top 5 sao Thần Trang Rương tùy chọn
+39058|Gói 5 sao Thần Trang
+39523|Gói Chọn Bộ 5 Sao Thần Trang random
+39509|5 Sao Hộp Tuỳ Chọn
+1|--- Trang Bị ---
+39095| Rương trang bị 5 sao
+40425|Thần Hoàng I Giày
+40325|Thần Hoàng I Mũ
+40225|Thần Hoàng I Thời trang
+40125|Thần Hoàng I Vũ khí
+40426|Long Tuyền Giày
+40326|Long Tuyền Mũ
+40226|Long Tuyền Thời trang
+40126|Long Tuyền Vũ khí
+40427|Cực Viêm Giày
+40327|Cực Viêm Mũ
+40227|Cực Viêm Thời trang
+40127|Cực Viêm Vũ khí
+40428|Vảy Rồng Giày
+40328|Vảy Rồng Mũ
+40228|Vảy Rồng Thời trang
+40128|Vảy Rồng Vũ khí
+40429|Phong Linh Giày
+40329|Phong Linh Mũ
+40229|Phong Linh Thời trang
+40129|Phong Linh Vũ khí
+40430|Tà Ma Giày
+40330|Tà Ma Mũ
+40230|Tà Ma Thời trang
+40130|Tà Ma Vũ khí
+40431|Thái Sơ Giày
+40331|Thái Sơ Mũ
+40231|Thái Sơ Thời trang
+40131|Thái Sơ Vũ khí

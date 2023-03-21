@@ -1,0 +1,61 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="" />
+<script type="text/javascript" src="./jq.js"></script>
+<script type="text/javascript" src="./jq.mousewheel.js"></script>
+<script type="text/javascript" src="./semantic.js?a2"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $('a.file_selector').popup({on: 'click', lastResort:'bottom left'});
+});
+</script>
+<link rel="stylesheet" type="text/css" href="./semantic.css" />
+<style type="text/css">
+.dp50{width:50%; float:left; display: inline; *margin-right:-1px; *padding-right:1px; _margin-right:-1px; _padding-right:1px; height:100px;}
+.dp33{width:33.3%; float:left; display: inline; *margin-right:-1px; *padding-right:1px; _margin-right:-1px; _padding-right:1px;  height:100px;}
+.g{color:#3a3;}
+.r{color:#a33;}
+.o{color:#f60;}
+.container{margin:0 auto; width:960px;}
+body{font-size:1em; font-family:Verdana,Arial,Helvetica,sans-serif;}
+.nav{font-size:1.125em; font-weight:bold; height:3.25em; padding:1em 0 0 0; margin:0 0 1em 0; background:#000; color:#fff;}
+.nav .button{float:right; margin:-0.7em 0 0 0;}
+.nav i{color:#f60;}
+.table tbody tr:hover{background:#eeeef6;}
+.table tbody tr td:first-child:hover{cursor:pointer;}
+#main_menu a{line-height:2em;}
+</style>
+<title>服务器管理 - 开发工具</title>
+</head>
+<body id="main">
+
+<div class="container">
+    <div class="ui menu">
+        <a class="item srv_btns file_selector"><i class="settings icon"></i>生成数据文件</a>
+        <div class='ui flowing popup'>
+            <div class="ui top attached label">请选择以下需要生成的数据文件:</div>
+            <form url="/dev/index.php/server/gen/data" class="ui form file_selector">
+                <input type="hidden" name="from" value="client" />
+                <div class="ui four fields relaxed equal height divided">
+                <p></p>
+                                <div class="field" title="最后修改于 2015/03/21 10:17:49 39.28 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=activity_helper_data><label>activity_helper_data</label></div></div>
+                                <div class="field" title="最后修改于 2015/03/21 10:17:26 14.75 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=activity_panel_data><label>activity_panel_data</label></div></div>
+                                <div class="field" title="最后修改于 2015/04/01 21:12:55 8210.96 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=ai_data><label>ai_data</label></div></div>
+                                <div class="field" title="最后修改于 2015/03/21 10:17:50 765.85 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=angel_demon_data><label>angel_demon_data</label></div></div>
+                                <div class="field" title="最后修改于 2014/12/13 11:17:37 22.77 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=angeldemon_skilldesc_data><label>angeldemon_skilldesc_data</label></div></div>
+                                <div class="field" title="最后修改于 2014/12/13 11:17:34 23.57 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=angelguard_data><label>angelguard_data</label></div></div>
+                                <div class="field" title="最后修改于 2014/12/13 11:17:37 5.66 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=animation_data><label>animation_data</label></div></div>
+                                <div class="field" title="最后修改于 2014/12/13 11:17:40 28.21 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=arena_data><label>arena_data</label></div></div>
+                                <div class="field" title="最后修改于 2014/12/13 11:17:55 71.81 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=arena_new_data><label>arena_new_data</label></div></div>
+                                <div class="field" title="最后修改于 2014/12/13 11:16:48 14.84 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=arms_data><label>arms_data</label></div></div>
+                                <div class="field" title="最后修改于 2014/12/13 11:17:36 80.60 kb\n上次更新时间:1970/01/01 08:00:00"><div class="toggle checkbox"><input type="checkbox" name="files[]" value=asterism_data><label>asterism_data</label></div></div>
+                <a class="ui submit button">生成数据</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+</body>
+</html>

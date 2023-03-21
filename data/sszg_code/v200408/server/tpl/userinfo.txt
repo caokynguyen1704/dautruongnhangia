@@ -1,0 +1,8 @@
+[
+    {success, true}
+    ,{username, "OfbLU7QKewRqKrVBgULK32tKAzLM"}
+    ,{pass, "lZqAq4mlXLjfjWENKB4j0wz3pqDRc2lLf"}
+    ,{conn, 0}
+    ,{time, 1570689239}
+    ,{sign, "b184a465f3016c0b05b7e28434c0d37e"}
+].

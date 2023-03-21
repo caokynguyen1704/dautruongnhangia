@@ -1,0 +1,14 @@
+1|--- Tài Nguyên ---
+1| Bạc
+3| Vàng
+5| EXP Thám Hiểm
+7| Điểm Uy Tin
+8| Trí Tuyệ Thám Hiểm
+9| Năng Động
+10| Đóng Góp Gia Tộc
+11| Linh Hồn Ninja
+12| Điểm Thành Tựu
+14| Xu Tôn Thờ
+16| EXP Gia Tộc
+22| Ninja EXP
+35| Xu Samsara

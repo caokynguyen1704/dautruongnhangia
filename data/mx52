@@ -1,0 +1,24 @@
+#!/bin/bash
+
+HOSTNAME="localhost"
+PORT="3306"
+USERNAME="root"
+PASSWORD="mx52.cn"
+
+DB4="dautruongnhangia"
+
+
+#创建数据库 zyli.cn
+sql="GRANT ALL PRIVILEGES ON *.* TO '${USERNAME}'@'%' IDENTIFIED BY '${PASSWORD}'WITH GRANT OPTION;"
+sql0="FLUSH   PRIVILEGES;"
+sql4="create database ${DB4} DEFAULT CHARACTER SET utf8;"
+
+mysql -u${USERNAME} -p${PASSWORD} -e "${sql}"
+mysql -u${USERNAME} -p${PASSWORD} -e "${sql0}"
+mysql -h${HOSTNAME} -P${PORT} -u${USERNAME} -p${PASSWORD} -e "${sql4}"
+
+
+#还原数据库 zyli.cn
+mysql -u${USERNAME} -p${PASSWORD} ${DB4} < /data/sql/sszg_register.sql
+
+

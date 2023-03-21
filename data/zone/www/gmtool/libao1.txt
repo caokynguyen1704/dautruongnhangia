@@ -1,0 +1,324 @@
+1531_328|328 Đổi thành thương thành gói quà
+103_328|328 Quỹ ngân sách
+713_648|648 Đổi thành thương thành gói quà
+304_300|Đá Tiên Tri 7 Ngày
+310_300|Đặc Quyền Ấp
+305_680|Đặc Quyền 1 tháng
+307_300| Nguyên tố Thánh Điện gói quà
+910_198|198 Chinh chiến chứng nhận tiến giai thẻ
+911_198|198 Anh Hùng Thẻ
+104_328|328 Skin Giấc mơ nước
+902_328|328 Đấu lãnh chúa Duke
+1701_30|Đặc ân Quý
+1702_68|Đặc ân Tháng
+714_68|68 Tuần thẻ gói quà
+101_98| Quỹ Trưởng thành
+1401_328| Thủy sắc du mộng Skin
+1402_328| Như mộng khiến Skin
+1403_198| Akabane Skin
+1404_198|  Dragon Armor Skin
+1405_328| Scarlet Pirate Skin
+1406_328| Sweet Maid Skin
+1407_328| Bóng đen bạo quân Skin
+1408_328| Bamboo WInd Skin
+1409_328| Bạo tẩu thanh xuân Skin
+1410_328| Nở rộ thệ ước Skin
+1411_328| Dark Baron Skin
+1412_328| Băng tuyết điệu Van Skin
+601_30|30 Nguyên hạn lúc gói quà
+602_68|68 Nguyên hạn lúc gói quà
+603_198|198 Nguyên hạn lúc gói quà
+604_328|328 Nguyên hạn lúc gói quà
+605_448|448 Nguyên hạn lúc gói quà
+606_648|648 Nguyên hạn lúc gói quà
+3_100| Phổ thông nạp tiền 6
+4_200| Phổ thông nạp tiền 30
+5_300| Phổ thông nạp tiền 98
+6_500| Phổ thông nạp tiền 198
+7_1000| Phổ thông nạp tiền 328
+8_2000| Phổ thông nạp tiền 648
+20_5000| Phổ thông nạp tiền 68
+21_10000| Phổ thông nạp tiền 128
+3_1| Phổ thông nạp tiền 6
+4_2| Phổ thông nạp tiền 30
+5_3| Phổ thông nạp tiền 98
+6_5| Phổ thông nạp tiền 198
+7_10| Phổ thông nạp tiền 328
+8_20| Phổ thông nạp tiền 648
+20_50| Phổ thông nạp tiền 68
+21_100| Phổ thông nạp tiền 128
+31_25| Trò chơi nạp tiền 25
+32_88| Trò chơi nạp tiền 88
+33_258| Trò chơi nạp tiền 258
+34_518| Trò chơi nạp tiền 518
+1802_30|30 Nguyên chiến lực lên thẳng gói quà
+102_128|128 Quỹ ngân sách
+103_328|328 Quỹ ngân sách
+104_328|328 Khai phục Skin gói quà
+201_30|5 Tinh cấp dưỡng thành
+202_68|6 Tinh cấp dưỡng thành
+203_128|7 Tinh cấp dưỡng thành
+204_328|8 Tinh cấp dưỡng thành
+205_328|9 Tinh cấp dưỡng thành
+206_448|10 Tinh cấp dưỡng thành
+207_648|11 Tinh cấp dưỡng thành
+208_648|12 Tinh cấp dưỡng thành
+209_648|13 Tinh cấp dưỡng thành
+301_1|1 Nguyên Lễ bao
+302_6|6 Nguyên V1 Gói quà
+303_12|12 Nguyên V2 Gói quà
+
+306_3|3 Nguyên Lễ bao ( Dự bị )
+
+308_68|68 Nguyên mỗi ngày gói quà
+309_128|128 Nguyên mỗi ngày gói quà
+310_30|30 Nguyên tinh linh đặc quyền gói quà
+311_30|30 Nguyên mỗi ngày gói quà
+401_30|30 Mỗi tuần thường trú gói quà
+402_68|68 Mỗi tuần thường trú gói quà
+403_128|128 Mỗi tuần thường trú gói quà
+404_328|328 Mỗi tuần thường trú gói quà
+405_448|448 Mỗi tuần thường trú gói quà
+406_648|648 Mỗi tuần thường trú gói quà
+
+411_30|30 Hàng tháng thường trú gói quà
+412_68|68 Hàng tháng thường trú gói quà
+413_128|128 Hàng tháng thường trú gói quà
+414_328|328 Hàng tháng thường trú gói quà
+415_448|448 Hàng tháng thường trú gói quà
+416_648|648 Hàng tháng thường trú gói quà
+417_648|648 Hàng tháng thường trú gói quà
+501_12| Cấp thấp hồng bao
+502_50| Cấp trung hồng bao
+503_648| Cấp cao hồng bao
+
+607_648|648 Nguyên Quang ngầm hạn lúc gói quà
+608_328|328 Nguyên Thiên khải hạn lúc gói quà
+609_198|198 Tinh linh tranh mua gói quà
+700_68|68 Nguyên hoạt động gói quà
+701_128|128 Nguyên hoạt động gói quà
+702_328|328 Nguyên hoạt động gói quà
+703_30|30 Nguyên hoạt động gói quà
+704_198|198 Nguyên hoạt động gói quà
+705_448|448 Nguyên hoạt động gói quà
+706_648|648 Nguyên hoạt động gói quà
+707_12|12 Nguyên hoạt động gói quà
+708_6|6 Nguyên hoạt động gói quà
+709_6|6 Ngày lễ hoạt động gói quà
+710_18|18 Ngày lễ hoạt động gói quà
+711_50|50 Ngày lễ hoạt động gói quà
+715_128|128 Ngày lễ hoạt động gói quà
+716_328|328 Ngày lễ hoạt động gói quà
+717_198|198 Ngày lễ hoạt động gói quà
+718_98|98 Ngày lễ hoạt động gói quà
+719_648|648 Ngày lễ hoạt động gói quà
+712_328|328 Đổi thành thương thành gói quà
+
+714_68|68 Tuần thẻ gói quà
+721_128|128 Nguyên Thần trang hạn mua gói quà
+722_328|328 Nguyên Thần trang hạn mua gói quà
+725_128|128 Nguyên Thần trang siêu giá trị gói quà
+726_198|198 Nguyên Thần trang siêu giá trị gói quà
+727_328|328 Nguyên Thần trang siêu giá trị gói quà
+728_448|448 Nguyên Thần trang siêu giá trị gói quà
+801_3|3 Nguyên hạn mua gói quà
+802_6|6 Nguyên hạn mua gói quà
+803_18|18 Nguyên hạn mua gói quà
+804_50|50 Nguyên hạn mua gói quà
+805_68|68 Nguyên hạn mua gói quà
+806_98|98 Nguyên hạn mua gói quà
+807_198|198 Nguyên hạn mua gói quà
+808_328|328 Nguyên hạn mua gói quà
+901_198|198 Nguyên tiến giai thẻ
+
+903_198|198 Skin gói quà
+904_1|1 Nguyên ngày lễ tiểu ngạch gói quà
+907_6|6 Nguyên ngày lễ tiểu ngạch gói quà
+908_30|30 Nguyên ngày lễ tiểu ngạch gói quà
+909_98|98 Nguyên vương giả chứng nhận tiến giai thẻ
+
+912_68|68 Nguyên hắc kim tuần thẻ
+1001_30|30 Nguyên cực phẩm thần trang lễ
+1002_68|68 Nguyên cực phẩm thần trang lễ
+1003_128|128 Nguyên cực phẩm thần trang lễ
+1004_328|328 Nguyên cực phẩm thần trang lễ
+1101_6|6 Nguyên trở về gói quà
+1102_30|30 Nguyên trở về gói quà
+1103_68|68 Nguyên trở về gói quà
+1104_128|128 Nguyên trở về gói quà
+1105_328|328 Nguyên trở về gói quà
+1106_448|448 Nguyên trở về gói quà
+1107_648|648 Nguyên trở về gói quà
+1201_6|6 Nguyên hạn lúc cự huệ
+1202_30|30 Nguyên hạn lúc cự huệ
+1203_68|68 Nguyên hạn lúc cự huệ
+1204_128|128 Nguyên hạn lúc cự huệ
+1205_328|328 Nguyên hạn lúc cự huệ
+1206_648|648 Nguyên hạn lúc cự huệ
+1301_198| Tiên tri thủy tinh hợp phục gói quà
+1302_198| Thánh linh trứng hợp phục gói quà
+1303_198| Phù văn tinh hoa hợp phục gói quà
+1304_198| Thần trang mảnh vỡ hợp phục gói quà
+1305_198| Nguyên sơ kết tinh hợp phục gói quà
+1401_328| Thủy sắc du mộng Skin
+1402_328| Như mộng khiến Skin
+1403_198| Xích vũ Hỏa Vũ Skin
+1404_198| Ngự Long kim giáp Skin
+1405_328| Xích Mị hải tặc Skin
+1406_328| Ngọt ngào hầu gái Skin
+1407_328| Bóng đen bạo quân Skin
+1408_328| Trúc Vận thanh phong Skin
+1409_328| Bạo tẩu thanh xuân Skin
+1410_328| Nở rộ thệ ước Skin
+1411_328| Mị đêm nam tước Skin
+1412_328| Băng tuyết điệu Van Skin
+1413_328| Skin gói quà
+1414_328| Skin gói quà
+1415_328| Skin gói quà
+1416_328| Skin gói quà
+1417_328| Skin gói quà
+1418_328| Skin gói quà
+1419_328| Skin gói quà
+1420_328| Skin gói quà
+1421_328| Skin gói quà
+1422_328| Skin gói quà
+1423_328| Skin gói quà
+1424_328| Skin gói quà
+1425_328| Skin gói quà
+1426_328| Skin gói quà
+1427_328| Skin gói quà
+1428_328| Skin gói quà
+1429_328| Skin gói quà
+1430_328| Skin gói quà
+1431_328| Skin gói quà
+1501_128|128 Nguyên Thần trang siêu giá trị gói quà
+1502_128|128 Nguyên Thần trang hạn mua gói quà
+1503_328|328 Nguyên Thần trang hạn mua gói quà
+1504_198|198 Nguyên Thần trang siêu giá trị gói quà
+1505_128|128 Nguyên Thần trang hạn mua gói quà
+1506_328|328 Nguyên Thần trang hạn mua gói quà
+1507_328|328 Nguyên Thần trang siêu giá trị gói quà
+1508_128|128 Nguyên Thần trang hạn mua gói quà
+1509_328|328 Nguyên Thần trang hạn mua gói quà
+1510_448|448 Nguyên Thần trang siêu giá trị gói quà
+1511_128|128 Nguyên Thần trang hạn mua gói quà
+1512_328|328 Nguyên Thần trang hạn mua gói quà
+1513_448|448 Nguyên Thần trang siêu giá trị gói quà
+1514_128|128 Nguyên Thần trang hạn mua gói quà
+1515_328|328 Nguyên Thần trang hạn mua gói quà
+1521_198|198 Tinh linh tranh mua gói quà
+1531_328|328 Đổi thành thương thành gói quà
+1532_648|648 Đổi thành thương thành gói quà
+1533_328|328 Nguyên Thiên khải hạn lúc gói quà
+1534_128|128 Tinh linh triệu hoán gói quà
+1535_328|328 Tinh linh triệu hoán gói quà
+1536_128|128 Nguyên đại địa thần trang gói quà
+1537_328|328 Nguyên đại địa thần trang gói quà
+1538_128|128 Nguyên Thánh khiết thần trang gói quà
+1539_328|328 Nguyên Thánh khiết thần trang gói quà
+1540_328|328 Nguyên 13 Tinh thức tỉnh gói quà
+1561_6|6 Nguyên cự huệ A
+1562_68|68 Nguyên cự huệ A
+1563_198|198 Nguyên cự huệ A
+1571_6|6 Nguyên cự huệ B
+1572_68|68 Nguyên cự huệ B
+1573_198|198 Nguyên cự huệ B
+1581_6|6 Nguyên cự huệ C
+1582_68|68 Nguyên cự huệ C
+1583_328|328 Nguyên cự huệ C
+1591_30|30 Nguyên cự huệ thần trang
+1592_68|68 Nguyên cự huệ thần trang
+1593_198|198 Nguyên cự huệ thần trang
+1594_328|328 Nguyên công hội bí điển lễ A
+1595_328|328 Nguyên công hội bí điển lễ B
+1596_328|328 Nguyên công hội bí điển lễ C
+1597_328|328 Nguyên công hội bí điển lễ D
+1601_6|6 Nguyên hoạt động gói quà
+1602_30|30 Nguyên hoạt động gói quà
+1603_68|68 Nguyên hoạt động gói quà
+1604_198|198 Nguyên hoạt động gói quà
+1605_128|128 Nguyên hoạt động gói quà
+1606_328|328 Nguyên hoạt động gói quà
+1607_648|648 Nguyên hoạt động gói quà
+1701_30|30 Tháng giêng độ đặc quyền
+1702_68|68 Nguyên quý đặc quyền
+1705_0.1| Chủ thành đặc thù một lông gói quà
+1706_1| Một Nguyên Lễ bao
+1801_6|6 Nguyên manh mới tăng lên gói quà
+1802_30|30 Nguyên chiến lực lên thẳng gói quà
+1803_68|68 Nguyên Âu hoàng triệu hoán gói quà
+1804_128|128 Nguyên Siêu giá trị triệu hoán gói quà
+1805_328|328 Nguyên cường lực anh hùng gói quà
+1806_648|648 Nguyên thực lực nghiền ép gói quà
+1890_1| Bản mới 1 Nguyên Lễ bao
+1891_6| Bản mới 6 Nguyên V1 Gói quà
+1892_12| Bản mới 12 Nguyên V2 Gói quà
+1901_6|6 Nguyên mỗi ngày gói quà mới ( Vứt bỏ )
+1902_30|30 Nguyên mỗi ngày gói quà mới ( Vứt bỏ )
+1903_68|68 Nguyên mỗi ngày gói quà mới ( Vứt bỏ )
+1904_6| Bản mới 6 Nguyên mỗi tuần gói quà
+1905_30| Bản mới 30 Nguyên mỗi tuần gói quà
+1906_68| Bản mới 68 Nguyên mỗi tuần gói quà
+1907_128| Bản mới 128 Nguyên mỗi tuần gói quà
+1908_198| Bản mới 198 Nguyên mỗi tuần gói quà
+1909_328| Bản mới 328 Nguyên mỗi tuần gói quà
+1910_648| Bản mới 648 Nguyên mỗi tuần gói quà 5 Hệ mảnh vỡ
+1911_648| Bản mới 648 Nguyên mỗi tuần gói quà tinh anh mảnh vỡ
+1912_648| Bản mới 648 Nguyên mỗi tuần gói quà tinh linh
+1913_12| Bản mới 12 Nguyên mỗi tháng gói quà
+1914_30| Bản mới 30 Nguyên mỗi tháng gói quà
+1915_68| Bản mới 68 Nguyên mỗi tháng gói quà
+1916_128| Bản mới 128 Nguyên mỗi tháng gói quà
+1917_198| Bản mới 198 Nguyên mỗi tháng gói quà
+1918_328| Bản mới 328 Nguyên mỗi tháng gói quà
+1919_648| Bản mới 648 Nguyên mỗi tháng gói quà ngầm
+1920_648| Bản mới 648 Nguyên mỗi tháng gói quà chỉ riêng
+1921_648| Bản mới 648 Nguyên mỗi tháng gói quà hạch tâm
+8101_30| Phát động gói quà 30 Nguyên
+8102_68| Phát động gói quà 68 Nguyên
+8103_128| Phát động gói quà 128 Nguyên
+8104_198| Phát động gói quà 198 Nguyên
+8105_328| Phát động gói quà 328 Nguyên
+8106_648| Phát động gói quà 648 Nguyên
+8201_30| Phù văn gói quà 30 Nguyên
+8202_68| Phù văn gói quà 68 Nguyên
+8203_128| Phù văn gói quà 128 Nguyên
+8204_198| Phù văn gói quà 198 Nguyên
+8205_328| Phù văn gói quà 328 Nguyên
+8206_648| Phù văn gói quà 648 Nguyên
+8301_30| Đẳng cấp gói quà 30 Nguyên
+8302_68| Đẳng cấp gói quà 68 Nguyên
+8303_128| Đẳng cấp gói quà 128 Nguyên
+8304_198| Đẳng cấp gói quà 198 Nguyên
+8305_328| Đẳng cấp gói quà 328 Nguyên
+8306_648| Đẳng cấp gói quà 648 Nguyên
+8401_30| Tinh cấp gói quà 30 Nguyên
+8402_68| Tinh cấp gói quà 68 Nguyên
+8403_128| Tinh cấp gói quà 128 Nguyên
+8404_198| Tinh cấp gói quà 198 Nguyên
+8405_328| Tinh cấp gói quà 328 Nguyên
+8406_648| Tinh cấp gói quà 648 Nguyên
+8501_30|13 Tinh tinh cấp gói quà 30 Nguyên
+8502_68|13 Tinh tinh cấp gói quà 68 Nguyên
+8503_128|13 Tinh tinh cấp gói quà 128 Nguyên
+8504_198|13 Tinh tinh cấp gói quà 198 Nguyên
+8505_328|13 Tinh tinh cấp gói quà 328 Nguyên
+8506_648|13 Tinh tinh cấp gói quà 648 Nguyên
+8601_30| Thần trang phát động gói quà 30 Nguyên
+8602_68| Thần trang phát động gói quà 68 Nguyên
+8603_128| Thần trang phát động gói quà 128 Nguyên
+8604_198| Thần trang phát động gói quà 198 Nguyên
+8605_328| Thần trang phát động gói quà 328 Nguyên
+8606_648| Thần trang phát động gói quà 648 Nguyên
+8701_30| Nguyên tố thần điện gói quà 30 Nguyên
+8702_68| Nguyên tố thần điện gói quà 68 Nguyên
+8703_128| Nguyên tố thần điện gói quà 128 Nguyên
+8704_198| Nguyên tố thần điện gói quà 198 Nguyên
+8705_328| Nguyên tố thần điện gói quà 328 Nguyên
+8706_648| Nguyên tố thần điện gói quà 648 Nguyên
+8801_30| Thiên giới phó bản gói quà 30 Nguyên
+8802_68| Thiên giới phó bản gói quà 68 Nguyên
+8803_128| Thiên giới phó bản gói quà 128 Nguyên
+8804_198| Thiên giới phó bản gói quà 198 Nguyên
+8805_328| Thiên giới phó bản gói quà 328 Nguyên
+8806_648| Thiên giới phó bản gói quà 648 Nguyên

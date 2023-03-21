@@ -1,0 +1,26 @@
+array (
+  'error' => 'OK',
+  'data' => 
+  array (
+    0 => 
+    array (
+      'rid' => '9',
+      'srv_id' => 'symlf_1',
+      'reg_channel' => 'symlf',
+      'account' => 'phong1997',
+      'name' => 'XiaoFeng',
+      'sex' => '1',
+      'career' => '0',
+      'lev' => '1',
+      'game_vip' => '0',
+      'game_time_0' => '0',
+      'game_time_1' => '0',
+      'game_time_2' => '0',
+      'game_time_3' => '0',
+      'game_time_4' => '0',
+      'game_time_5' => '0',
+      'game_time_6' => '0',
+      'game_fzb' => '0',
+    ),
+  ),
+)
